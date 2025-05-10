@@ -21,7 +21,7 @@
 
 Example:
 
-    ~/source/CriticalRiver/jesse-ai/project-x/
+    ~/source/Microsoft/copilot-ai/project-x/
     ~/source/art-cmyk/my-personal-project/
 
 ---
@@ -48,8 +48,8 @@ Example:
 
     git-identity-sync                     # Apply identities to all repos
     git-identity-sync --dry-run           # Preview what would change
-    git-identity-sync --org jesse-ai      # Only apply to a specific org
-    git-identity-sync --enterprise CR     # Only apply to a specific enterprise
+    git-identity-sync --org copilot-ai      # Only apply to a specific org
+    git-identity-sync --enterprise Microsoft     # Only apply to a specific enterprise
 
 ### Show Git Identity Status
 
